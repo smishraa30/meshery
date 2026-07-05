@@ -1,6 +1,6 @@
 ---
 title: Models
-description: Meshery architecture is extensible. Meshery provides several extension points for working with different cloud native projects via adapters, load generators and providers
+description: Meshery architecture is extensible. Meshery provides several extension points for working with different cloud native projects via adapters, load generators and providers.
 aliases: 
 - /extensibility/integrations
 - /extensions/integrations
